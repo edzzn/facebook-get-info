@@ -1,0 +1,6 @@
+cafe
+pizza
+hamburguesa
+bar
+heladeria
+helado
